@@ -14,7 +14,7 @@
 - 🛍️ Complete **shopping experience in one go**.
 - 🖼️ Built with **Tkinter GUI** for easier navigation and demonstration.
 - 🧱 Entirely developed using **OOP principles** – classes and functions only.
-- 🧠 Fine-tuned using **Claude Sonnet 4 AI** for code enhancement.
+- 🧠 Fine-tuned using **Claude Sonnet 4** for enhanced GUI.
 
 ---
 
@@ -32,7 +32,7 @@
 
 - Python 3.x
 - Tkinter (Python GUI Library)
-- Claude Sonnet 4 (for optimization assistance)
+- Claude Sonnet 4 (for GUI optimization assistance)
 
 ---
 
@@ -40,4 +40,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/UnExplainableFish52/grocery-store-python.git
+   git clone https://github.com/UnExplainableFish52/groceryStore.git
