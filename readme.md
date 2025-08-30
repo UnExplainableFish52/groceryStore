@@ -19,6 +19,12 @@
 ---
 
 ## 📸 Screenshot
+## 📸 Screenshot
+
+![App Screenshot](img/home.png)
+![App Screenshot](img/menu.png)
+![App Screenshot](img/sub_menu.png)
+![App Screenshot](img/checkout.png)
 
 ---
 
